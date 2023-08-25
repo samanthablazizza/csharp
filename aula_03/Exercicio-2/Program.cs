@@ -1,9 +1,9 @@
 ﻿using System.Runtime.Intrinsics.X86;
 
 namespace Exercicio_2
-{//Para doar sangue é necessário ter entre 18 e 69 anos. Pessoas com idade entre 60 e 69 anos, só podem doar se não for a sua primeira
- //doação. Escreva um Algoritmo em C# que obtenha via teclado o nome do doador (string), a idade (inteiro) do doador e se é a primeira
- //doação (bool). Conforme as Regras para a doação, mostre na tela se o doador está Apto ou Não Apto para doar sangue
+{/*Para doar sangue é necessário ter entre 18 e 69 anos. Pessoas com idade entre 60 e 69 anos, só podem doar se não for a sua primeira
+doação. Escreva um Algoritmo em C# que obtenha via teclado o nome do doador (string), a idade (inteiro) do doador e se é a primeira
+doação (bool). Conforme as Regras para a doação, mostre na tela se o doador está Apto ou Não Apto para doar sangue*/
     internal class Program
     {
         static void Main(string[] args)

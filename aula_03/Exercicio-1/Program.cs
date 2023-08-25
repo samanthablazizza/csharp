@@ -1,6 +1,6 @@
 ﻿namespace Exercicio_1
-{//Algoritmo que leia um número inteiro via teclado e mostre na tela uma mensagem indicando se este número é par ou ímpar e se o número é
- //positivo ou negativo
+{/*Algoritmo que leia um número inteiro via teclado e mostre na tela uma mensagem indicando se este número é par ou ímpar e se o número é
+ positivo ou negativo*/
     internal class Program
     {
         static void Main(string[] args)

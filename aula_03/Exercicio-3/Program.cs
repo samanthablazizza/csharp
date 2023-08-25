@@ -1,6 +1,6 @@
 ﻿namespace Exercicio_3
-{//leia o Nome do Colaborador (string), o Código do Cargo do Colaborador (número inteiro de 1 a 6) e o Salário (número float).
- //A seguir, mostre na tela o Nome do Colaborador, o Cargo e o novo Salário reajustado.
+{/*leia o Nome do Colaborador (string), o Código do Cargo do Colaborador (número inteiro de 1 a 6) e o Salário (número float).
+  A seguir, mostre na tela o Nome do Colaborador, o Cargo e o novo Salário reajustado.*/
     internal class Program
     {
         static void Main(string[] args)

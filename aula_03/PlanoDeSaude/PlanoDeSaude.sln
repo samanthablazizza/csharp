@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-2", "..\Exercicio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-3", "..\Exercicio-3\Exercicio-3.csproj", "{282B6857-CBAA-4F1B-BD9D-D88876BD653B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio-4", "..\Exercicio-4\Exercicio-4.csproj", "{34161C32-032C-40BE-9487-F93465956F1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio-4", "..\Exercicio-4\Exercicio-4.csproj", "{34161C32-032C-40BE-9487-F93465956F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvAnimais", "..\AtvAnimais\AtvAnimais.csproj", "{7FDF38ED-1C42-4669-911D-11B5661876BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{34161C32-032C-40BE-9487-F93465956F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34161C32-032C-40BE-9487-F93465956F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34161C32-032C-40BE-9487-F93465956F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDF38ED-1C42-4669-911D-11B5661876BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDF38ED-1C42-4669-911D-11B5661876BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDF38ED-1C42-4669-911D-11B5661876BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDF38ED-1C42-4669-911D-11B5661876BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
