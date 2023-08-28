@@ -1,0 +1,14 @@
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\Exercicio-1-VETOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\Exercicio-1-VETOR.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\Exercicio-1-VETOR.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\Exercicio-1-VETOR.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\bin\Debug\net7.0\Exercicio-1-VETOR.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\bin\Debug\net7.0\Exercicio-1-VETOR.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\bin\Debug\net7.0\Exercicio-1-VETOR.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\bin\Debug\net7.0\Exercicio-1-VETOR.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\bin\Debug\net7.0\Exercicio-1-VETOR.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\Exercicio-1-VETOR.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\refint\Exercicio-1-VETOR.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\Exercicio-1-VETOR.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\Exercicio-1-VETOR.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-1-VETOR\obj\Debug\net7.0\ref\Exercicio-1-VETOR.dll

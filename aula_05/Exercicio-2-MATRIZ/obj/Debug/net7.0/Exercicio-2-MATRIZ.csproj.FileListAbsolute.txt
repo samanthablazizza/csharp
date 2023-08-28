@@ -1,0 +1,14 @@
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\Exercicio-2-MATRIZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\Exercicio-2-MATRIZ.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\Exercicio-2-MATRIZ.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\Exercicio-2-MATRIZ.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\bin\Debug\net7.0\Exercicio-2-MATRIZ.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\bin\Debug\net7.0\Exercicio-2-MATRIZ.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\bin\Debug\net7.0\Exercicio-2-MATRIZ.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\bin\Debug\net7.0\Exercicio-2-MATRIZ.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\bin\Debug\net7.0\Exercicio-2-MATRIZ.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\Exercicio-2-MATRIZ.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\refint\Exercicio-2-MATRIZ.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\Exercicio-2-MATRIZ.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\Exercicio-2-MATRIZ.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_05\Exercicio-2-MATRIZ\obj\Debug\net7.0\ref\Exercicio-2-MATRIZ.dll
