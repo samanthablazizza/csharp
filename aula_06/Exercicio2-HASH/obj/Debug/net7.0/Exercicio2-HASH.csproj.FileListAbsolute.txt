@@ -1,0 +1,14 @@
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\Exercicio2-HASH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\Exercicio2-HASH.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\Exercicio2-HASH.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\Exercicio2-HASH.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\bin\Debug\net7.0\Exercicio2-HASH.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\bin\Debug\net7.0\Exercicio2-HASH.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\bin\Debug\net7.0\Exercicio2-HASH.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\bin\Debug\net7.0\Exercicio2-HASH.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\bin\Debug\net7.0\Exercicio2-HASH.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\Exercicio2-HASH.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\refint\Exercicio2-HASH.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\Exercicio2-HASH.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\Exercicio2-HASH.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio2-HASH\obj\Debug\net7.0\ref\Exercicio2-HASH.dll

@@ -1,0 +1,14 @@
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\Exercicio3-FILA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\Exercicio3-FILA.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\Exercicio3-FILA.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\Exercicio3-FILA.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\bin\Debug\net7.0\Exercicio3-FILA.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\bin\Debug\net7.0\Exercicio3-FILA.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\bin\Debug\net7.0\Exercicio3-FILA.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\bin\Debug\net7.0\Exercicio3-FILA.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\bin\Debug\net7.0\Exercicio3-FILA.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\Exercicio3-FILA.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\refint\Exercicio3-FILA.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\Exercicio3-FILA.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\Exercicio3-FILA.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_06\Exercicio3-FILA\obj\Debug\net7.0\ref\Exercicio3-FILA.dll
