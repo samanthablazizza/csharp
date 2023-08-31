@@ -1,0 +1,28 @@
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\refint\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\Nova pasta\Exercicio1-Classe\obj\Debug\net7.0\ref\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\refint\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\exercicio-classe\Exercicio1-Classe\obj\Debug\net7.0\ref\Exercicio1-Classe.dll

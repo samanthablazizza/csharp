@@ -1,0 +1,14 @@
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\bin\Debug\net7.0\Metodos2.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\refint\Metodos2.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\Metodos2.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_07\Metodos2\obj\Debug\net7.0\ref\Metodos2.dll
