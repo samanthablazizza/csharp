@@ -76,7 +76,7 @@ namespace Exercicio_Farmacia.Classe3
             Console.WriteLine("**********************************************************");
             Console.WriteLine("                                                          ");
             Console.WriteLine($"Nome da Farmácia: {this.nome}");
-            Console.WriteLine($"Unidade: {this.unidade}");
+            Console.WriteLine("Unidade: " + this.unidade);
             Console.WriteLine($"Farmacêutico(a) responsável: {this.farmResponsavel}");
             Console.WriteLine($"Funcionário(a) do Caixa: {this.funcionarioCaixa}");
             Console.WriteLine($"Funcionário(a) do Balcão: {this.funcionarioBalcao}");

@@ -10,11 +10,11 @@ namespace Exercicio_Farmacia
 
             farmacia.Visualizar();
             
-           Medicamento med = new Medicamento("Dipirona", "EMS");
+           Medicamento med = new Medicamento("DrogaBrasil", 1, "Tancredo Goulard", "Antônio La Selva", "Nazaré Tedesco", "Dipirona", "EMS");
 
             med.Visualizar();
 
-            Perfumaria perf = new Perfumaria("Higiene Pessoal", "Unilever");
+            Perfumaria perf = new Perfumaria("DrogaTeen", 15, "Jânio Sarney", "Ruth Silva", "Catarina Batista", "Higiene Pessoal", "Unilever"); 
 
             perf.Visualizar();
         }

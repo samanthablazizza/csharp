@@ -41,7 +41,7 @@ namespace Exercicio_Farmacia.Classe3
         {
             base.Visualizar();
             Console.WriteLine($"Setor da perfumaria:  {this.setor}");
-            Console.WriteLine($"Setor da perfumaria:  {this.fabricante}");
+            Console.WriteLine($"Fabricante:  {this.fabricante}");
         }
     }
         
