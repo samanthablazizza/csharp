@@ -12,7 +12,7 @@ namespace Exercicio1_Classe.Classe1
         private string cpf = string.Empty;
         private string telefone = string.Empty;
 
-        public PessoaFisica(int matricula, string nome, int idade, string raca, string profissao, string cpf, string telefone) 
+        public PessoaFisica(int matricula, string nome,  int idade, string raca, string profissao, string cpf, string telefone) 
             : base(matricula, nome, idade, raca, profissao)
         {
             this.cpf = cpf;

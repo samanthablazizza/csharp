@@ -50,6 +50,7 @@ namespace Exercicio1_Classe.Classe1
         {
             this.idade = idade;
         }
+
         public string GetRaca()
         {
             return raca;
@@ -74,7 +75,7 @@ namespace Exercicio1_Classe.Classe1
             Console.WriteLine($"Nome: {this.nome}");
             Console.WriteLine($"Idade: {this.idade} anos");
             Console.WriteLine($"Raça: {this.raca}");
-            Console.WriteLine($"Idade: {this.profissao}");
+            Console.WriteLine($"Profissão: {this.profissao}");
             Console.WriteLine("                                                          ");
             Console.WriteLine("**********************************************************");
 

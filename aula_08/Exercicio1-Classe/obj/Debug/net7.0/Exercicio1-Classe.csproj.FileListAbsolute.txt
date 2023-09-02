@@ -33,3 +33,10 @@ C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\obj\D
 C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.dll
 C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\obj\Debug\net7.0\refint\Exercicio1-Classe.dll
 C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\bin\Debug\net7.0\Exercicio1-Classe.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\obj\Debug\net7.0\Exercicio1-Classe.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio1-Classe\obj\Debug\net7.0\ref\Exercicio1-Classe.dll
