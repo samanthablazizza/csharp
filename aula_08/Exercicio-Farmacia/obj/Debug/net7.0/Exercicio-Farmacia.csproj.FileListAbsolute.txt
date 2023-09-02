@@ -1,0 +1,14 @@
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\bin\Debug\net7.0\Exercicio-Farmacia.exe
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\bin\Debug\net7.0\Exercicio-Farmacia.deps.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\bin\Debug\net7.0\Exercicio-Farmacia.runtimeconfig.json
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\bin\Debug\net7.0\Exercicio-Farmacia.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\bin\Debug\net7.0\Exercicio-Farmacia.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\Exercicio-Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\Exercicio-Farmacia.AssemblyInfoInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\Exercicio-Farmacia.AssemblyInfo.cs
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\Exercicio-Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\Exercicio-Farmacia.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\refint\Exercicio-Farmacia.dll
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\Exercicio-Farmacia.pdb
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\Exercicio-Farmacia.genruntimeconfig.cache
+C:\Users\sa_bl\OneDrive\Área de Trabalho\csharp\aula_08\Exercicio-Farmacia\obj\Debug\net7.0\ref\Exercicio-Farmacia.dll
